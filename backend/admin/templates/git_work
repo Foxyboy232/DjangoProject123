@@ -1,0 +1,5 @@
+git status
+git add backend
+git status
+git commit -m "save"
+git push
